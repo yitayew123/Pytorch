@@ -5,8 +5,8 @@ This repository introduces PyTorch Tensors, the fundamental building blocks for 
 
 Tensors represent data across dimensions:
 
-    Scalar (0-D Tensor): A single numerical value.
-    Vector (1-D Tensor): A sequence of values, like a list.
+   * Scalar (0-D Tensor): A single numerical value.
+    * Vector (1-D Tensor): A sequence of values, like a list.
     Matrix (2-D Tensor): A table of values with rows and columns.
     3-D Tensor: Data with three dimensions, such as images. 🖼️
     N-D Tensor: Higher-dimensional data, like video frames or data batches. 🎥
